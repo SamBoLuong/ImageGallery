@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageLoader</string>
+    <string name="all_image">所有图片</string>
+</resources>
